@@ -5,3 +5,8 @@ arabic2latin
 indic_transliteration
 unidecode
 iso639-lang
+torch
+transformers
+minicons
+kenlm
+scipy
