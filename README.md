@@ -51,9 +51,58 @@ All languages except Dutch are built from Universal Dependencies v2.18 treebanks
 
 | Language | UD treebank | License |
 |---|---|---|
-| … | … | … |
+| Armenian | ArmTDP, BSUT | CC BY-SA 4.0 |
+| Belarusian | HSE | CC BY-SA 4.0 |
+| Bulgarian | BTB | CC BY-NC-SA 3.0 |
+| Catalan | AnCora | CC BY 4.0 |
+| Chinese | CFL, GSDSimp | CC BY-SA 4.0 |
+| Chinese | Beginner | CC BY-NC-SA 3.0 |
+| Croatian | SET | CC BY-SA 4.0 |
+| Czech | CAC, CLTT, PUD | CC BY-SA 4.0 |
+| Czech | FicTree | CC BY-NC-SA 4.0 |
+| Danish | DDT | CC BY-SA 4.0 |
+| English | PUD | CC BY-SA 3.0 |
+| English | EWT | CC BY-SA 4.0 |
+| English | GENTLE, GUM, LinES, ParTUT | CC BY-NC-SA 4.0 |
+| Finnish | FTB | CC BY 4.0 |
+| Finnish | OOD, PUD, TDT | CC BY-SA 4.0 |
+| German | GSD, HDT | CC BY-SA 4.0 |
+| Greek | GUD | CC BY-SA 4.0 |
+| Greek | GDT | CC BY-NC-SA 3.0 |
+| Greek | GLCII | CC BY-NC-SA 4.0 |
+| Hebrew | IAHLTknesset, IAHLTwiki | CC BY-SA 4.0 |
+| Hebrew | HTB | CC BY-NC-SA 4.0 |
+| Hindi | PUD | CC BY-SA 3.0 |
+| Hindi | HDTB | CC BY-NC-SA 4.0 |
+| Hungarian | Szeged | CC BY-NC-SA 3.0 |
+| Icelandic | GC, Modern, PUD | CC BY-SA 4.0 |
+| Indonesian | CSUI, GSD | CC BY-SA 4.0 |
+| Lithuanian | ALKSNIS, HSE | CC BY-SA 4.0 |
+| Norwegian Bokmål | Bokmaal | CC BY-SA 4.0 |
+| Norwegian Nynorsk | Nynorsk | CC BY-SA 4.0 |
+| Persian | PerDT, Seraji | CC BY-SA 4.0 |
+| Polish | PUD | CC BY-SA 4.0 |
+| Polish | PDB | CC BY-NC-SA 4.0 |
+| Polish | LFG | GNU GPL 3.0 |
+| Romanian | RRT, SiMoNERo | CC BY-SA 4.0 |
+| Russian | PUD | CC BY-SA 3.0 |
+| Russian | GSD, Taiga | CC BY-SA 4.0 |
+| Russian | SynTagRus | CC BY-NC-SA 4.0 |
+| Serbian | SET | CC BY-SA 4.0 |
+| Slovak | SNK | CC BY-SA 4.0 |
+| Slovenian | SSJ | CC BY-SA 4.0 |
+| Spanish | AnCora | CC BY 4.0 |
+| Spanish | GSD | CC BY-SA 4.0 |
+| Swedish | SweLL, Talbanken | CC BY-SA 4.0 |
+| Swedish | LinES | CC BY-NC-SA 4.0 |
+| Turkish | PUD | CC BY-SA 3.0 |
+| Turkish | BOUN, FrameNet, GB, Kenet, Penn | CC BY-SA 4.0 |
+| Turkish | IMST | CC BY-NC-SA 4.0 |
+| Ukrainian | ParlaMint | CC BY-SA 4.0 |
+| Ukrainian | IU | CC BY-NC-SA 4.0 |
+| Urdu | UDTB | CC BY-NC-SA 4.0 |
 
-Several of these licenses are share-alike (SA) and some are non-commercial (NC). An NC treebank's subset may not be used for commercial purposes.
+Several of these licenses are share-alike (SA) and some are non-commercial (NC); Polish LFG is under GNU GPL 3.0. An NC treebank's subset may not be used for commercial purposes.
 
 ### English: NPI Bank
 
