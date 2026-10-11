@@ -1,0 +1,115 @@
+﻿id,candidate,wrong,lic_surface,lic_type,npi_surface,n_npi_matches,n_lic_matches
+2043,"And even though I won't catch anything, I don't know that now.","And even though I will catch anything, I don't know that now.",won't,NOT,anything,1,2
+2050,I've learned not to deprive myself of anything.,I've learned to deprive myself of anything.,not,NOT,anything,1,1
+2051,"I'm sorry, Inspector, but I really don't think there's anything more I can tell you.","I'm sorry, Inspector, but I really think there's anything more I can tell you.",don't,NOT,anything,1,1
+2055,"We weren't told anything other than, this is what we did, and you need to accept it.","We were told anything other than, this is what we did, and you need to accept it.",weren't,NOT,anything,1,1
+2057,I didn't do anything...,I did do anything...,didn't,NOT,anything,1,1
+2060,"Blue, red, gold, black, brown -- I couldn't think of anything to say.","Blue, red, gold, black, brown -- I could think of anything to say.",couldn't,NOT,anything,1,1
+2062,"She doesn't say anything, just unclips the chain.","She does say anything, just unclips the chain.",doesn't,NOT,anything,1,1
+2065,"I'm sure you're not missing anything, "" Yuri sputtered.","I'm sure you're missing anything, "" Yuri sputtered.",not,NOT,anything,1,1
+2070,"It wouldn't normally be anything to worry about, except that late last week someone already took dibs on my sandwich.","It would normally be anything to worry about, except that late last week someone already took dibs on my sandwich.",wouldn't,NOT,anything,1,1
+2078,We haven't done anything about TV violence.,We have done anything about TV violence.,haven't,NOT,anything,1,2
+2101,I don't think I've found anything more powerful in my own priesthood.,I do think I've found anything more powerful in my own priesthood.,don't,NOT,anything,1,1
+2107,There was no sign in it of anything human: she lay there like a dead dog in a ditch.,There was sign in it of anything human: she lay there like a dead dog in a ditch.,no,Restr-NOTHING,anything,1,1
+2133,Others don't see it at all.,Others do see it at all.,don't,NOT,at all,1,1
+2145,"Pat McGuigan was saying, and they're not going to like this extension at all .","Pat McGuigan was saying, and they're going to like this extension at all .",not,NOT,at all,1,1
+2148,"In fact, she didn't really need this meeting at all .","In fact, she really need this meeting at all .",didn't,NOT,at all,1,1
+2150,I don't think we're at a magic moment at all .,I do think we're at a magic moment at all .,don't,NOT,at all,1,1
+2152,"If he's not resisting, they shouldn't be using force at all .","If he's not resisting, they should be using force at all .",shouldn't,NOT,at all,1,1
+2155,And I had no luck at all .,And I had some luck at all.,no,Scope-NOTHING,at all,1,1
+2156,"It seemed eerily crude, even though it was really nothing at all .","It seemed eerily crude, even though it was really something at all .",nothing,Scope-NOTHING,at all,1,1
+2157,"MP3 players, may very well not be set up for any auxiliary inputs at all .","MP3 players, may very well be set up for any auxiliary inputs at all .",not,NOT,at all,1,1
+2160,"I found myself focusing intently on the snow, barely noticing the trees at all .","I found myself focusing intently on the snow, easily noticing the trees at all .",barely,Scope-HARDLY,at all,1,1
+2162,But to hold up a vote on him makes no sense at all .,But to hold up a vote on him makes some sense at all .,no,Scope-NOTHING,at all,1,1
+2163,They don't know their history at all .,They do know their history at all .,don't,NOT,at all,1,1
+2164,"We are both avid exercisers, but unfortunately we never did any resistance training at all .","We are both avid exercisers, but unfortunately we did some resistance training at all .",never,Scope-NEVER,at all,1,1
+2169,"In some cases, there simply may be a lack of awareness, even at the highest levels, that an agency action involves decision at all .","In some cases, there simply may be a support of awareness, even at the highest levels, that an agency action involves decision at all .",lack,PREDICATE,at all,1,1
+2176,The result: no sales pitch at all .,The result: some sales pitch at all .,no,Scope-NOTHING,at all,1,1
+2183,It didn't feel hokey at all .,It did feel hokey at all .,didn't,NOT,at all,1,1
+2190,No one knows at all .,Someone knows at all .,no one,Scope-NOTHING,at all,1,2
+2193,It was not a fair way to fight at all .,It was a fair way to fight at all .,not,NOT,at all,1,1
+2195,"In fact, there's no proof that Michele is dead at all .","In fact, there's some proof that Michele is dead at all .",no,Scope-NOTHING,at all,1,1
+2201,"Maybe, "" the man said, not sounding friendly at all.","Maybe, "" the man said, sounding friendly at all.",not,NOT,at all,1,1
+2212,MR-SOSS: I don't think that critique of the Federal Reserve is fair at all .,MR-SOSS: I do think that critique of the Federal Reserve is fair at all .,don't,NOT,at all,1,1
+2213,No fun allowed at all .,Some fun allowed at all.,no,Scope-NOTHING,at all,1,2
+2219,Remember too it's likely there won't be any problems at all .,Remember too it's likely there will be any problems at all .,won't,NOT,at all,1,1
+2221,The revenue would fund tax deductions for people with only basic coverage or none at all .,The revenue would fund tax deductions for people with only basic coverage or some at all .,none,Scope-NOTHING,at all,1,1
+2222,He has blond curly hair and isn't my type at all .,He has blond curly hair and is my type at all .,isn't,NOT,at all,1,1
+2223,Nobody 50 and up seems to be represented at all .,Somebody 50 and up seems to be represented at all .,nobody,Scope-NOTHING,at all,1,1
+2224,"In fact, some are not serious at all .","In fact, some are serious at all .",not,NOT,at all,1,2
+2225,"Hospital, and others argue that taking some estrogen may be better than none at all .","Hospital, and others argue that taking some estrogen may be better than some at all .",none,Scope-NOTHING,at all,1,1
+2323,He could not recall ever having been in such proximity to a newborn babe.,He could recall ever having been in such proximity to a newborn babe.,not,NOT,ever,1,1
+2337,"The argument was one of the few times that our grandfather ever stood up to her, that I knew of anyway.","The argument was one of the many times that our grandfather ever stood up to her, that I knew of anyway.",few,Scope-FEW,ever,1,1
+2339,"She'd hardly ever worn the earrings but she always packed them, a talismanic reminder of her position","She'd easily ever worn the earrings but she always packed them, a talismanic reminder of her position",hardly,Scope-HARDLY,ever,1,1
+2340,"His father hardly ever loses his temper with Jeremy, he is always interested in Jeremy's life.","His father easily ever loses his temper with Jeremy, he is always interested in Jeremy's life.",hardly,Scope-HARDLY,ever,1,1
+2343,We don't think we'll ever see this again.,We do think we'll ever see this again.,don't,NOT,ever,1,1
+2345,"I may be a conservative Republican, but I don't think I can be ever in the position of saying somehow if these people might be closer to my cause.","I may be a conservative Republican, but I do think I can be ever in the position of saying somehow if these people might be closer to my cause.",don't,NOT,ever,1,1
+2347,"Honestly, I don't think we'll ever put money behind Atlanta like some of the other large corporations do.","Honestly, I do think we'll ever put money behind Atlanta like some of the other large corporations do.",don't,NOT,ever,1,1
+2353,I had an unfortunate tendency to tell the truth in a country where no one ever says what they mean.,I had an unfortunate tendency to tell the truth in a country where someone ever says what they mean.,no one,Scope-NOTHING,ever,1,1
+2356,Nobody ever seemed to react to its mention.,Somebody ever seemed to react to its mention.,nobody,Scope-NOTHING,ever,1,1
+2358,"But with few real restaurants available, a trip to a local milk bar was the only chance many Poles ever had to eat out.","But with few real restaurants available, a trip to a local milk bar was the chance many Poles ever had to eat out.",only,Scope-ONLY,ever,1,1
+2411,I've hardly played story mode in ages.,I've easily played story mode in ages.,hardly,Scope-HARDLY,in ages,1,1
+2044,He did not tell the press anything different.,He did tell the press anything different.,not,NOT,anything,1,1
+2046,I don't see anything funny about lice.,I do see anything funny about lice.,don't,NOT,anything,1,1
+2047,And don't ever take anything lightly.,And do ever take anything lightly.,don't,NOT,anything,1,2
+2053,"Again, I haven't seen this article so I don't know anything about it.","Again, I haven't seen this article so I do know anything about it.",don't,NOT,anything,1,1
+2067,"I hadn't done anything for anybody but myself in a long, long time.","I had done anything for anybody but myself in a long, long time.",hadn't,NOT,anything,1,1
+2071,"But I didn't care about anyone or anything, just Jamie.","But I did care about anyone or anything, just Jamie.",didn't,NOT,anyone,1,1
+2073,and I didn't hear anything about any resistance or that he was upset about anything.,and I did hear anything about any resistance or that he was upset about anything.,didn't,NOT,anything,2,1
+2076,but your taking an uncharitable outlook on the matter won't change anything.,but your taking an uncharitable outlook on the matter will change anything.,won't,NOT,anything,1,1
+2081,""" There are many brilliant people in my union who have not won anything, so I am just greatly honored to have won, "" she says."," There are many brilliant people in my union who have won anything, so I am just greatly honored to have won,  she says.",not,NOT,anything,1,1
+2082,I don't know anything about constructing genetically specific drugs and I don't want to.,I do know anything about constructing genetically specific drugs and I don't want to.,don't,NOT,anything,1,2
+2104,You feel like there's no reason to put forth any effort towards anything.,You feel like there's some reason to put forth any effort towards anything.,no,Restr-NOTHING,any,1,1
+2106,"and Drug Administration knows all about this, but it has no authority to do anything about it.","and Drug Administration knows all about this, but it has some authority to do anything about it.",no,Restr-NOTHING,anything,1,1
+2108,"At that point, von Kurowsky began to deny that Hemingway had ever meant anything to her.","At that point, von Kurowsky began to accept that Hemingway had ever meant anything to her.",deny,PREDICATE,anything,2,1
+2111,I find family life unbearable and I am afraid of being incapable of adjusting to anything anymore.,I find family life unbearable and I am afraid of being capable of adjusting to anything anymore.,incapable,PREDICATE,anymore,1,1
+2114,"""The fact is that no one noticed anything suspicious about him, "" he said.","""The fact is that someone noticed anything suspicious about him, "" he said.",no one,Scope-NOTHING,anything,1,1
+2117,"opened in surprise, and then he asked himself why no one ever told him anything.","opened in surprise, and then he asked himself why someone ever told him anything.",no one,Scope-NOTHING,ever,2,1
+2119,None of us had ever seen anything like that before.,Some of us had ever seen anything like that before.,none (of us),Scope-NOTHING,ever,1,0
+2124,PHILLIPS: Did he say anything while this was happening?,PHILLIPS: He did say anything while this was happening.,Que-YN,Que-YN,anything,1,0
+2134,The United States can't afford any tax cut plan at all.,The United States can afford any tax cut plan at all.,can't,NOT,at all,1,2
+2135,Church: it did not contain any mention of churches or other religious communities at all .,Church: it did contain any mention of churches or other religious communities at all .,not,NOT,at all,1,1
+2137,but at the same time it didn't feel like a choice at all .,but at the same time it did feel like a choice at all .,didn't,NOT,at all,1,1
+2140,"And this is a lovely white sauce, and it takes no time at all .","And this is a lovely white sauce, and it takes some time at all .",no,Scope-NOTHING,at all,1,1
+2141,"Play hard all the time, or don't expect to play at all .","Play hard all the time, or do expect to play at all .",don't,NOT,at all,1,1
+2142,"little boy... in fact, he isn't a little boy at all .","little boy... in fact, he is a little boy at all .",isn't,NOT,at all,1,1
+2146,""" You're crazy, Katharine Weidman. I don't see Nancye Bowden at all . """,""" You're crazy, Katharine Weidman. I do see Nancye Bowden at all . """,don't,NOT,at all,1,1
+2149,"wrong answer, a possibility with any technical support source, can be worse than no answer at all .","wrong answer, a possibility with any technical support source, can be worse than some answer at all .",no,Scope-NOTHING,at all,1,1
+2153,""" So far, "" said Joy-in-the-Dance, "" you're making no sense at all .",""" So far, "" said Joy-in-the-Dance, "" you're making some sense at all .",no,Scope-NOTHING,at all,1,1
+2159,I have heel spurs and these boots didn't hurt my feet at all .,I have heel spurs and these boots did hurt my feet at all .,didn't,NOT,at all,1,1
+2165,yet for the first six months she didn't improve at all .,yet for the first six months she did improve at all.,didn't,NOT,at all,1,1
+2167,because I'm not a lesbian just because of the sex at all .,because I'm a lesbian just because of the sex at all .,not,NOT,at all,1,2
+2172,"in one of his first five years, he didn't do any pardons at all .","in one of his first five years, he did do any pardons at all .",didn't,NOT,at all,1,1
+2174,I didn't go to the funeral at all .,I did go to the funeral at all .,didn't,NOT,at all,1,1
+2175,"having problems in the bedroom, but she didn't go into any detail at all .","having problems in the bedroom, but she did go into any detail at all .",didn't,NOT,at all,1,1
+2179,"living -- just surviving in their home areas, but without any international aid at all .","living -- just surviving in their home areas, but with any international aid at all .",without,WITHOUT,at all,1,1
+2180,"rust and eventually crumble, which results in clearance where there should be none at all .","rust and eventually crumble, which results in clearance where there should be some at all .",none,Scope-NOTHING,at all,1,1
+2186,I'm not mentioning his name at all .,I'm mentioning his name at all .,not,NOT,at all,1,1
+2187,I don't think it'll have any bad effects or ill effects at all .,I do think it'll have any bad effects or ill effects at all .,don't,NOT,at all,1,2
+2188,percent of Ob/Gyn residency programs in the United States that had no abortion training at all .,percent of Ob/Gyn residency programs in the United States that had some+C97 abortion training at all .,no,Scope-NOTHING,at all,1,1
+2189,"parsimony by the tiny kangaroo rat, which spends its whole life without drinking at all .","parsimony by the tiny kangaroo rat, which spends its whole life with drinking at all .",without,WITHOUT,at all,1,1
+2192,I just don't see an issue with (No.) 6 at all .,I just do see an issue with (No.) 6 at all .,don't,NOT,at all,1,1
+2194,pretty soon they won't have to be anywhere at all .,pretty soon they will have to be anywhere at all .,won't,NOT,at all,1,1
+2197,"We don't see you often, or speak to you much at all .","We do see you often, or speak to you much at all .",don't,NOT,at all,1,1
+2200,"If you're like most people, you probably won't consider it at all .","If you're like most people, you probably will consider it at all .",won't,NOT,at all,1,1
+2202,"It should either have been accurate and nuanced, many felt, or not included at all .","It should either have been accurate and nuanced, many felt, or included at all .",not,NOT,at all,1,1
+2203,I hardly see him at all.,I easily see him at all.,hardly,Scope-HARDLY,at all,1,1
+2206,For the first week the new mother does not care for her child at all .,For the first week the new mother does care for her child at all .,not,NOT,at all,1,1
+2207,There will either be international solutions or no solutions at all .,There will either be international solutions or some solutions at all .,no,Scope-NOTHING,at all,1,1
+2217,I would not ask a black person to modulate the fact that they were black at all .,I would ask a black person to modulate the fact that they were black at all .,not,NOT,at all,1,1
+2227,"I'd listened to his singing, so that was no problem at all .","I'd listened to his singing, so that was some problem at all .",no,Scope-NOTHING,at all,1,1
+2325,"Carrie May made me cross my heart and hope to die, I wouldn't ever show it to nobody else.","Carrie May made me cross my heart and hope to die, I would ever show it to nobody else.",wouldn't,NOT,ever,1,1
+2344,"And until the end of my days, I don't think I'll ever forget that run up for it was a god-awful horror.","And until the end of my days, I do think I'll ever forget that run up for it was a god-awful horror.",don't,NOT,ever,1,1
+2349,"Found her all over Jersey City and Elizabeth, though I don't think we ever found her fingers, or at least not all of them.","Found her all over Jersey City and Elizabeth, though I do think we ever found her fingers, or at least not all of them.",don't,NOT,ever,1,1
+2350," No matter how large the sum, no amount of money will ever suffice to compensate for National Socialist persecution."," No matter how large the sum, some amount of money will ever suffice to compensate for National Socialist persecution.",no,Scope-NOTHING,ever,1,2
+2351,This is like no other detective picture ever made.,This is like some other detective picture ever made.,no,Restr-NOTHING,ever,2,1
+2359,Have you ever seen them?,You have ever seen them.,Que-YN,Que-YN,ever,1,0
+2361,Was Mr. Gates ever the greedy bossy miser depicted by his critics?,Mr. Gates was ever the greedy bossy miser depicted by his critics.,Que-YN,Que-YN,ever,1,0
+2362,"Barry, did you ever think that your presence in a case might be harming your clients' credibility?","Barry, you did ever think that your presence in a case might be harming your clients' credibility.",Que-YN,Que-YN,ever,1,0
+2363,Did we ever order anything except the house white?,We did ever order anything except the house white.,Que-YN,Que-YN,ever,1,0
+2365,"Did you ever say to yourself, this is a princess?",Did we ever order anything except the house white?,Que-YN,Que-YN,ever,1,0
+2367,Do they ever ask you anything?,They do ever ask you anything?,Que-YN,Que-YN,anything,1,0
+2372,""" Did you ever smell blood? "" he repeated.","""You did ever smell blood."" he repeated.",Que-YN,Que-YN,ever,1,0
+2373,"But had he ever "" given himself up "" to pain?","But he had ever "" given himself up "" to pain.",Que-YN,Que-YN,ever,1,0
+2409,"I was nervous at first as I've not exercised in ages but the instructors were welcoming and inclusive, it wasn't a place where you're made to feel you need to be super trim and super fit.","I was nervous at first as I've exercised in ages but the instructors were welcoming and inclusive, it wasn't a place where you're made to feel you need to be super trim and super fit.",not,NOT,in_ages,1,1
+2412,"The account had been around since things had been set up back in the day, but nobody had used it in ages.","The account had been around since things had been set up back in the day, but somebody had used it in ages.",nobody,Scope-NOTHING,in_ages,1,1

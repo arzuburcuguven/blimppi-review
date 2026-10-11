@@ -1,0 +1,153 @@
+# Model registry. Add a [[model]] block to register a new model — no code changes.
+#   name      : identifier used in outputs and plots
+#   family    : grouping for family-panel plots (goldfish / Llama / Qwen / gemma / ...)
+#   hf_id     : HuggingFace repo id. Required for the eval job script to pick it up.
+#               Omit it for models evaluated by a different script (e.g. goldfish).
+#   revisions : optional list of HF revisions (checkpoints). Defaults to ["main"].
+#   langs     : optional list of languages. Omit to use the job script's full LANGS list.
+#   path      : glob under RESULTS/model_results, matching that model's *_minimal_pairs.tsv
+#
+# Note: globs are case-sensitive on Linux (the cluster). Match the real dir casing.
+
+
+[[model]]
+name = "goldfish_100mb"
+family = "goldfish"
+path = "goldfish-models/*_100mb/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "goldfish_1000mb"
+family = "goldfish"
+path = "goldfish-models/*_1000mb/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "Llama-3.1-8B"
+family = "Llama"
+hf_id = "meta-llama/Llama-3.1-8B"
+path = "meta-llama/Llama-3.1-8B/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "Qwen3-8B"
+family = "Qwen"
+hf_id = "Qwen/Qwen3-8B"
+path = "Qwen/Qwen3-8B/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "Qwen3-14B"
+family = "Qwen"
+hf_id = "Qwen/Qwen3-14B"
+path = "Qwen/Qwen3-14B/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "Qwen3-32B"
+family = "Qwen"
+hf_id = "Qwen/Qwen3-32B"
+path = "Qwen/Qwen3-32B/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "gemma-3-1b-pt"
+family = "gemma"
+hf_id = "google/gemma-3-1b-pt"
+path = "google/gemma-3-1b-pt/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "gemma-3-4b-pt"
+family = "gemma"
+hf_id = "google/gemma-3-4b-pt"
+path = "google/gemma-3-4b-pt/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "gemma-3-12b-pt"
+family = "gemma"
+hf_id = "google/gemma-3-12b-pt"
+path = "google/gemma-3-12b-pt/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "gemma-3-27b-pt"
+family = "gemma"
+hf_id = "google/gemma-3-27b-pt"
+path = "google/gemma-3-27b-pt/**/*_minimal_pairs.tsv"
+
+
+[[model]]
+name = "xglm-7.5B"
+family = "xglm"
+hf_id = "facebook/xglm-7.5B"
+path = "facebook/xglm-7.5B/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "bloom-7b1"
+family = "bloom"
+hf_id = "bigscience/bloom-7b1"
+path = "bigscience/bloom-7b1/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "mGPT-13B"
+family = "mgpt"
+hf_id = "ai-forever/mGPT-13B"
+path = "ai-forever/mGPT-13B/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "EuroLLM-9B"
+family = "eurollm"
+hf_id = "utter-project/EuroLLM-9B"
+path = "utter-project/EuroLLM-9B/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "salamandra-7b"
+family = "salamandra"
+hf_id = "BSC-LT/salamandra-7b"
+path = "BSC-LT/salamandra-7b/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "Apertus-8B-2509"
+family = "Apertus"
+org = "swiss-ai"
+hf_id = "swiss-ai/Apertus-8B-2509"
+path = "swiss-ai/Apertus-8B-2509/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "Apertus-70B-2509"
+family = "big"
+org = "swiss-ai"
+hf_id = "swiss-ai/Apertus-70B-2509"
+path = "swiss-ai/Apertus-70B-2509/**/*_minimal_pairs.tsv"
+
+[[model]]
+name = "aya-expanse-32b"
+family = "Aya"
+org = "CohereLabs"
+hf_id = "CohereLabs/aya-expanse-32b"
+path = "CohereLabs/aya-expanse-32b/**/*_minimal_pairs.tsv"
+
+
+[[model]]
+name = "Llama-3.1-70B"
+family = "big"
+hf_id = "meta-llama/Llama-3.1-70B"
+path = "meta-llama/Llama-3.1-70B/**/*_minimal_pairs.tsv"
+
+
+[[model]]
+name = "pythia-1.4b"
+family = "pythia"
+hf_id = "EleutherAI/pythia-1.4b"
+revisions = [
+  "step0", "step16", "step64", "step128", "step256", "step512",
+  "step2000", "step3000",
+  "step8000",
+]
+langs = ["english"]
+path = "EleutherAI/pythia-1.4b/step*/*_minimal_pairs.tsv"
+
+[[model]]
+name = "pythia-6.9b"
+family = "pythia"
+hf_id = "EleutherAI/pythia-6.9b"
+revisions = [
+  "step0", "step16", "step64", "step128", "step256", "step512",
+   "step2000", "step3000", 
+  "step8000",   
+]
+langs = ["english"]
+path = "EleutherAI/pythia-6.9b/step*/*_minimal_pairs.tsv"

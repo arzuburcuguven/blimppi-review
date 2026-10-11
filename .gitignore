@@ -1,0 +1,33 @@
+# misc
+*.egg-info/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Archives
+*.tgz
+.ruff_cache/
+model_results/
+models/
+
+resources/**
+!resources/**/
+!resources/**/.gitkeep
+resources/*/*
+
+results/**
+!results/**/
+!results/**/.gitkeep
+results/*/*
+
+model_results/
+
+
+# Models
+models/
+
+# Data/stats CSVs
+obj_case_stats_*.csv
+
+scripts/scripts.txt
+scripts/.ipynb_checkpoints
